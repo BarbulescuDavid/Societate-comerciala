@@ -1,0 +1,5 @@
+Auchan 1001 4 mere grapefruit banane pere Calea-Bucuresti 26 Marcel Pop 0773512332
+Kaufland 1002 5 oua carne branza rosii ardei Bulevardul-1Mai 45 Popescu Ion 0351456344
+Penny 1003 3 pepsi cola fanta Anul-1848 21 Alina Marcescu 0351341229
+Sara 1004 4 carne oua lapte mere Spania 12 Ionut Marcu 0351224101
+Lidl 1005 4 seminte alune pepsi sandvisuri Luncai 42 Popa Alin 0351562113
